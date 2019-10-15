@@ -9,8 +9,8 @@
 
 # RAJA-tutorials
 
-This project contains materials to support RAJA tutorials. Tutorial materials 
-include pdf files that include slide presentations, Docker images, etc.
+This project contains materials to support RAJA tutorials, such as pdf files 
+of slide presentations used in the tutorial lectures.
 
 The repository contains a collection of directories, where each directory is 
 named for one tutorial and contains materials for that tutorial. The  
