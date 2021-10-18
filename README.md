@@ -16,4 +16,4 @@ named for one tutorial and contains materials for that tutorial. The 'README.txt
 
 The RAJA code lives in a GitHub [repository](https://github.com/llnl/raja).
 
-The [**RAJA User Guide and Tutorial**](http://raja.readthedocs.io/en/master/) is the best place to start learning about RAJA and how to use it. The tutorial materials in this project complement the online User Guide.
+The [**RAJA User Guide and Tutorial**](http://raja.readthedocs.io) is the best place to start learning about RAJA and how to use it. The tutorial materials in this project complement the online User Guide.
